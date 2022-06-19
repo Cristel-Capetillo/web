@@ -1,0 +1,26 @@
+<svg width="69" height="95" viewBox="0 0 69 95" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M62.3191 51.2455L40.8813 88.1924C40.1756 89.3229 39.1966 90.2574 38.0345 90.9106C36.8725 91.563 35.5649 91.913 34.2322 91.9272C32.9624 91.9097 31.7191 91.5613 30.625 90.9173C29.5309 90.2725 28.6239 89.353 27.9934 88.251L6.22058 50.651C3.41771 45.7029 1.9354 40.117 1.91626 34.4302C1.91626 25.8528 5.32361 17.6268 11.3887 11.5616C17.4539 5.49655 25.6799 2.0892 34.2573 2.0892C42.8347 2.0892 51.0607 5.49655 57.1259 11.5616C63.1909 17.6268 66.5983 25.8528 66.5983 34.4302C66.7079 40.3179 65.2298 46.1265 62.3191 51.2455Z" fill="#F7D302"/>
+<g filter="url(#filter0_b_1145_1511)">
+<rect x="10.343" y="10.5145" width="47.6258" height="47.6258" rx="23.8129" fill="white" fill-opacity="0.9"/>
+<g clip-path="url(#clip0_1145_1511)">
+<path d="M49.3728 43.6701H18.8741" stroke="#141414" stroke-width="1.44624" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M30.8089 21.9469L20.2007 43.6709" stroke="#141414" stroke-width="1.44624" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M37.4392 21.9469L48.0473 43.6709" stroke="#141414" stroke-width="1.44624" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M34.1233 30.092V32.8075" stroke="#141414" stroke-width="1.44624" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M34.1233 25.3409V26.6987" stroke="#141414" stroke-width="1.44624" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M34.1233 21.9469V22.6257" stroke="#141414" stroke-width="1.44624" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M34.1233 36.2031V40.2764" stroke="#141414" stroke-width="1.44624" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_b_1145_1511" x="-0.240502" y="-0.0690336" width="68.7929" height="68.7929" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImage" stdDeviation="5.29176"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_1145_1511"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_1145_1511" result="shape"/>
+</filter>
+<clipPath id="clip0_1145_1511">
+<rect width="31.7506" height="23.0913" fill="white" transform="translate(18.2806 21.3385)"/>
+</clipPath>
+</defs>
+</svg>

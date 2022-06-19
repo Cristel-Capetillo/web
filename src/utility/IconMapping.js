@@ -4,6 +4,7 @@ IconMapping.translateIcon = function(iconType) {
 	switch (iconType) {
 		case 'roadAccident':
 		case 'emergencyInformation':
+		case 'dangerAccident':	
 			return 'accident';
 		case 'trafficMessage':
 		case 'trafficMessagePlanned':
@@ -20,6 +21,11 @@ IconMapping.translateIcon = function(iconType) {
 		case 'ferryServiceNotOperating':
 			return 'ferry';
 		default: return 'message';
+		case 'sideRoadHazard':
+		case 'roadHazard':
+			return 'hazard';
+		case 'weather':
+			return 'weather';	
 	}
 }
 module.exports = IconMapping;
